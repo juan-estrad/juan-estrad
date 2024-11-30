@@ -17,14 +17,14 @@
 
 ## 🌟 Projects  
 
-### [FitQuest App](#)  
+### [FitQuest App](https://github.com/juan-estrad/FitQuest)  
 **Android Application | Java, Kotlin, Jetpack Compose, Firebase**  
 - A fitness app designed to motivate users through **gamification**:  
   - Tracks workouts and awards **flexcoins** for profile customizations like pictures, borders, and backgrounds.  
   - Features **daily streaks** and **challenges** with Fallout-inspired stats like dexterity and strength.  
   - Leveraged **Firebase** for real-time data syncing and secure user authentication.  
 
-### [Lexical Analyzer and Parser](#)  
+### [Lexical Analyzer and Parser](https://github.com/juan-estrad/LexicalAnalyzer-Scanner)  
 **School Project | Java**  
 - Built a **Scanner** to tokenize input and a **Parser** using recursive descent for syntax validation against a predefined grammar.  
 - Added **error detection and feedback**, demonstrating a solid understanding of compiler design fundamentals.  
